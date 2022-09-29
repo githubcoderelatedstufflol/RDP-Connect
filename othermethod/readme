@@ -1,0 +1,10 @@
+fork this repo and go to "Actions"
+Click "I understand.. etc etc" if you get a warning
+Click CI
+Click Run workflow
+Click the green button
+Refresh the page
+click CI again
+now click build
+it works!
+You'll get ip, user and pass at the end of Enable TS
